@@ -1,0 +1,9 @@
+requests
+phonenumbers
+colorama
+datetime
+rich
+fake_useragent
+requests
+bs4
+futures
